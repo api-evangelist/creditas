@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of Creditas host well-known discovery surface
+host: https://www.creditas.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No .well-known discovery documents are published on the Creditas web host.
+  A published llms.txt (https://www.creditas.com/llms.txt, HTTP 200) IS available
+  and is captured verbatim at llms/creditas-llms.txt. Absence of well-known
+  documents is valid, expected data for a consumer fintech with no public API
+  program.

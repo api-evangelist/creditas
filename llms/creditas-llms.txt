@@ -1,0 +1,58 @@
+# Creditas
+
+> Fintech brasileira especializada em crédito com garantia de imóvel, veículo e salário. Oferecemos soluções financeiras digitais 100% online com taxas reduzidas, prazos longos e regulação do Banco Central do Brasil.
+
+Fundada em 2012, Creditas simplifica o acesso ao crédito através de um modelo inovador que utiliza garantias reais para oferecer melhores condições financeiras. Operamos no Brasil e México, trazendo transparência, educação financeira e soluções de proteção patrimonial e pessoal.
+
+## Institucional
+
+- [Página inicial](https://www.creditas.com/): Empréstimo com a menor taxa do mercado, soluções de crédito, seguros e financiamentos com garantia.
+- [Quem Somos](https://www.creditas.com/quem-somos): História, propósito e trajetória da plataforma Creditas.
+- [Creditas é confiável](https://www.creditas.com/creditas-e-confiavel): Segurança, credibilidade e modalidades de empréstimo.
+- [Segurança](https://www.creditas.com/seguranca): Práticas de proteção de dados e diretrizes de segurança da plataforma.
+- [Política de Privacidade](https://www.creditas.com/legal/politica-privacidade): Diretrizes sobre coleta, armazenamento e tratamento de dados pessoais.
+- [Termos e Condições de Uso](https://www.creditas.com/legal/termos-condicoes): Regras e responsabilidades para utilização dos serviços.
+- [Canais de Atendimento](https://www.creditas.com/canais-de-atendimento): Central de contatos, telefones e suporte ao cliente.
+
+## Crédito com Garantia
+
+- [Empréstimo Online](https://www.creditas.com/emprestimo-online): Contratação de crédito digital com foco em taxas reduzidas.
+- [Empréstimo com Garantia de Imóvel](https://www.creditas.com/emprestimo/garantia-imovel): Crédito de alto valor com imóvel como garantia e longos prazos.
+- [Empréstimo com Garantia de Veículo](https://www.creditas.com/emprestimo/garantia-veiculo): Crédito que utiliza o veículo para reduzir juros das parcelas.
+- [Empréstimo Consignado Privado](https://www.creditas.com/emprestimo/consignado-privado): Crédito para funcionários de empresas parceiras com desconto em folha.
+- [Refinanciamento de Imóvel](https://www.creditas.com/refinanciamento-imovel): Modalidade que utiliza imóvel próprio como garantia para menores taxas.
+- [Refinanciamento de Veículos](https://www.creditas.com/refinanciamento-veiculos): Crédito com garantia de veículo já quitado para obter liquidez.
+
+## Financiamentos
+
+- [Financiamento de Veículos](https://www.creditas.com/financiamento-veiculos): Opções de financiamento para compra de carros com taxas competitivas.
+- [Financiamento de Imóvel](https://www.creditas.com/financiamento-de-imovel): Linha de crédito imobiliário para aquisição de residências ou terrenos.
+
+## Benefícios Corporativos
+
+- [Benefícios Corporativos para Empresas](https://www.creditas.com/beneficios-empresas): Ecosistema de soluções financeiras e benefícios para áreas de RH.
+- [Antecipação Salarial](https://www.creditas.com/beneficios-empresas/antecipacao-salarial): Ferramenta que permite ao colaborador acessar o salário já trabalhado.
+- [Cartão de Benefícios Flexíveis](https://www.creditas.com/beneficios-empresas/cartao-beneficios-flexiveis): Gestão de múltiplos benefícios corporativos em um único cartão.
+- [Educação Financeira para Colaboradores](https://www.creditas.com/beneficios-empresas/educacao-financeira): Programas e conteúdos voltados ao bem-estar financeiro das equipes.
+
+## Seguros
+
+- [Seguros](https://www.creditas.com/seguros): Central de produtos de proteção pessoal, patrimonial e automotiva.
+- [Seguro Auto](https://www.creditas.com/seguros/auto): Comparação e contratação de seguros para veículos com diversas coberturas.
+- [Garantia Locatícia](https://www.creditas.com/garantia-locaticia): Solução para aluguel de imóveis sem necessidade de fiador.
+
+## Educação Financeira
+
+- [Exponencial](https://www.creditas.com/exponencial): Portal de notícias e artigos sobre finanças, economia e educação financeira.
+- [Guia do Imposto de Renda](https://www.creditas.com/imposto-de-renda/trilha): Conteúdo educativo com orientações passo a passo sobre declaração de imposto de renda.
+- [Renegociação de Dívidas](https://www.creditas.com/dividas): Orientações e opções para quitação ou renegociação de débitos pendentes.
+- [Papo de Grana](https://www.creditas.com/papodegrana): Portal com artigos sobre investimentos, economia e planejamento pessoal.
+- [Planilha de Orçamento de Obra](https://www.creditas.com/planilha-orcamento-obra): Recurso prático para organização financeira e controle de gastos em reformas.
+- [Central de Ajuda](https://ajuda.creditas.com/portal/pt-br/home): Portal de suporte ao cliente com busca de dúvidas e categorias de atendimento.
+
+## Optional
+
+- [Parceiros Creditas](https://www.creditas.com/parceiros): Programa de parcerias e expansão de negócios.
+- [Portal do Parceiro](https://parceiros.creditas.com.br/auth/login/): Área restrita para autenticação e acesso de parceiros comerciais.
+- [Documentação API](https://developers.creditas.com.br/docs): Documentação técnica para integração sistêmica com serviços Creditas.
+- [Investor Relations](https://www.creditas.com/ir/): Portal de relação com investidores com informações corporativas e financeiras.
