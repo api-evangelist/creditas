@@ -10,6 +10,17 @@ description: 'Creditas is a Brazilian digital lending fintech founded in 2012 an
   backed by QED Investors and the SoftBank Vision Fund. No public developer API
   program or OpenAPI has been identified; this profile captures the company public
   identity, its published llms.txt, and its domain security posture.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
